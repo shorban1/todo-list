@@ -8,3 +8,7 @@ It uses HTML5 and CSS3.
 
 \* List of daily tasks
 
+
+
+License: MIT.
+
